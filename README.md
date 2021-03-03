@@ -1,2 +1,3 @@
 # solution-modulo-5
 solution modulo 5
+Nessa atividade como ponto de partida eu tinha o site do restaurante pronto com tres opções clicáveis, menu, specials e site. Inicialmente clicando em specials você era levado a uma página de categoria única, onde todos os itens de menu que pertencem à categoria de menu Specials eram exibidos. Minha tarefa nesta atividade era alterar esse comportamento de forma que, quando o usuário clicar no bloco specials, o aplicativo da web leva o usuário a uma página de menu de categoria única aleatória, listando itens de menu na categoria, seja "Almoço", "Jantar "," Sushi "
